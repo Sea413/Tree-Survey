@@ -1,0 +1,27 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.black-theme {
+  background-color: black;
+  color: white;
+}
+
+.white-theme {
+  background-color: white;
+  color: black;
+}
+
+.highlight-box {
+  border-style: solid;
+  border-width: thick;
+  background-color: yellow;
+}
